@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es lucas
+#### Desarrollador web 
+![Desarrollador web ](https://media-exp1.licdn.com/dms/image/C4D16AQF5RGSwphKH2g/profile-displaybackgroundimage-shrink_350_1400/0/1653275025793?e=1658966400&v=beta&t=IT3Bo86zqmjQvz0UqV9qwYXPdRz9H9CeELrZD13OnpQ)
 
-<!--
-**Forlino/Forlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web de argentina con conocimientos en programación con objetos, actualmente me encuentro estudiando en la universidad nacional de Quilmes (UNQ)
 
-Here are some ideas to get you started:
+Habilidades: JAVA / JAVASCRIPT / HTML / CSS / PHP / MySQL / MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy subiendo mis proyectos poco a poco
+
+
+
+
+
+
