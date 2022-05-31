@@ -4,7 +4,7 @@
 
 Soy un desarrollador web de argentina trainee con conocimientos en programación con objetos, actualmente me encuentro estudiando en La Universidad Nacional de Quilmes (UNQ)
 
-Habilidades: JAVA / JAVASCRIPT / HTML / CSS / PHP / MySQL / GIT /
+Habilidades: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)JAVA / JAVASCRIPT / HTML / CSS / PHP / MySQL / GIT /
 
 - 🔭 Estas son mis redes sociales:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Forlino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucasforlino/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lucasforlino/)  
