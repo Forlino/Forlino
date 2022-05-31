@@ -1,11 +1,11 @@
-### Hola 👋, Mi nombre es lucas
-#### Desarrollador web 
+### Hi 👋, Im Lucas
+#### Web Developer 
 ![Desarrollador web ](https://media-exp1.licdn.com/dms/image/C4D16AQF5RGSwphKH2g/profile-displaybackgroundimage-shrink_350_1400/0/1653275025793?e=1658966400&v=beta&t=IT3Bo86zqmjQvz0UqV9qwYXPdRz9H9CeELrZD13OnpQ)
 
-Soy un desarrollador web de argentina trainee con conocimientos en programación con objetos, actualmente me encuentro estudiando en La Universidad Nacional de Quilmes (UNQ)
+I am a trainee web developer from Argentina with knowledge in Object Oriented Programming, I am currently studying at the National University of Quilmes (UNQ)
 
 <h2 align="center">
-  HABILIDADES
+  SKILLS
  </h2>
  
  <p align="center">
@@ -24,7 +24,7 @@ Soy un desarrollador web de argentina trainee con conocimientos en programación
 </p>
 
 <h2 align="center">
- CONTACTO
+ CONTACT
  </h2>
  <br/>
 <p align="center">
