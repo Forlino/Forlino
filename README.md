@@ -29,7 +29,7 @@ Soy un desarrollador web de argentina trainee con conocimientos en programación
 <h2 align="center">
  REDES SOCIALES
  </h2>
-
+ <br/>
 <p align="center">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Forlino)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucasforlino/)  
