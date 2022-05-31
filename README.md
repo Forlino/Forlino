@@ -4,7 +4,28 @@
 
 Soy un desarrollador web de argentina trainee con conocimientos en programación con objetos, actualmente me encuentro estudiando en La Universidad Nacional de Quilmes (UNQ)
 
-<center><b>HABILIDADES</b></center>
+<h2 align="center">
+  Habilidades 
+ </h2>
+ 
+ <p align="center">
+  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code>
+  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+</p>
+
+<br/>
+
+<p align="center">
+  <code><img height="75" src="assets/laravel.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="assets/codeigniter.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="assets/php.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="assets/mysql.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+</p>
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
