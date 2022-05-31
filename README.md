@@ -27,7 +27,7 @@ Soy un desarrollador web de argentina trainee con conocimientos en programación
 </p>
 
 <h2 align="center">
- REDES SOCIALES
+ CONTACTO
  </h2>
  <br/>
 <p align="center">
