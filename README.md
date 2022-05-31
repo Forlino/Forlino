@@ -13,7 +13,7 @@ Soy un desarrollador web de argentina trainee con conocimientos en programación
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code>
-  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://icon-library.com/icon/java-icon-png-5.html></code> &nbsp;&nbsp;
 </p>
 
 <br/>
