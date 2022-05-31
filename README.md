@@ -4,7 +4,7 @@
 
 Soy un desarrollador web de argentina trainee con conocimientos en programación con objetos, actualmente me encuentro estudiando en La Universidad Nacional de Quilmes (UNQ)
 
-Habilidades: JAVA / JAVASCRIPT / HTML / CSS / PHP / MySQL / MongoDB
+Habilidades: JAVA / JAVASCRIPT / HTML / CSS / PHP / MySQL / GIT /
 
 - 🔭 Estoy subiendo mis proyectos poco a poco
 
