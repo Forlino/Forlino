@@ -13,16 +13,13 @@ Soy un desarrollador web de argentina trainee con conocimientos en programación
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://img.icons8.com/color/96/undefined/java-coffee-cup-logo--v1.png"></code>
-  <code><img height="75" src="></code> &nbsp;&nbsp;
 </p>
 
 <br/>
 
 <p align="center">
-  <code><img height="75" src="assets/laravel.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="assets/codeigniter.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="assets/php.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="assets/mysql.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://img.icons8.com/dusk/128/undefined/php-logo.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://img.icons8.com/fluency/96/undefined/mysql-logo.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 </p>
 
