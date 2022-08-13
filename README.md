@@ -1,8 +1,8 @@
 ### Hi 👋, Im Lucas
-#### Web Developer 
+#### Developer 
 ![Desarrollador web ](https://media-exp1.licdn.com/dms/image/C4D16AQF5RGSwphKH2g/profile-displaybackgroundimage-shrink_350_1400/0/1653275025793?e=1658966400&v=beta&t=IT3Bo86zqmjQvz0UqV9qwYXPdRz9H9CeELrZD13OnpQ)
 
-I am a trainee web developer from Argentina with knowledge in Object Oriented Programming, I am currently studying at the National University of Quilmes (UNQ)
+I am a junior java developer from Argentina with knowledge in web programming, I am currently studying at the National University of Quilmes (UNQ)
 
 <h2 align="center">
   SKILLS
