@@ -1,6 +1,6 @@
 ### Hi 👋, Im Lucas
 #### Developer 
-![Desarrollador] (https://github.com/Forlino/Forlino/blob/main/Java%20(1).jpg)
+![Desarrollador] 
 
 I am a Junior Java Developer from Argentina with knowledge in web programming, I am currently studying at the National University of Quilmes (UNQ)
 
