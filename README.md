@@ -1,18 +1,19 @@
 ### Hi 👋, Im Lucas
 #### Developer 
-![Desarrollador web ](https://media-exp1.licdn.com/dms/image/C4D16AQF5RGSwphKH2g/profile-displaybackgroundimage-shrink_350_1400/0/1653275025793?e=1658966400&v=beta&t=IT3Bo86zqmjQvz0UqV9qwYXPdRz9H9CeELrZD13OnpQ)
+![Desarrollador web ] https://www.linkedin.com/in/lucasforlino/overlay/background-image/
 
-I am a junior java developer from Argentina with knowledge in web programming, I am currently studying at the National University of Quilmes (UNQ)
+I am a Junior Java Developer from Argentina with knowledge in web programming, I am currently studying at the National University of Quilmes (UNQ)
 
 <h2 align="center">
   SKILLS
  </h2>
  
  <p align="center">
+  <code><img height="75" src="https://img.icons8.com/color/96/undefined/java-coffee-cup-logo--v1.png"></code>
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="https://img.icons8.com/color/96/undefined/java-coffee-cup-logo--v1.png"></code>
+  
 </p>
 
 <br/>
