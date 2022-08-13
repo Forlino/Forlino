@@ -1,6 +1,6 @@
 ### Hi 👋, Im Lucas
 #### Developer 
-![Desarrollador web ] https://www.linkedin.com/in/lucasforlino/overlay/background-image/
+![Desarrollador] 
 
 I am a Junior Java Developer from Argentina with knowledge in web programming, I am currently studying at the National University of Quilmes (UNQ)
 
