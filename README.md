@@ -1,7 +1,5 @@
 ### Hi 👋, Im Lucas
 #### Programming student
-![Java (1)](https://user-images.githubusercontent.com/106035345/184508118-5c0bb684-3c84-40c0-9c26-83d218a62c1e.jpg)
-
 
 I am a first year programming student., I am currently studying at the National Technological University (UTN)
 
