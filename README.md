@@ -16,8 +16,6 @@ I am a first year programming student., I am currently studying at the National 
 </p>
 <br/>
 <p align="center">
-
-  <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 </p>
 
 <h2 align="center">
