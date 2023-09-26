@@ -6,7 +6,7 @@
 I am a first year programming student., I am currently studying at the National Technological University (UTN)
 
 <h2 align="center">
-  SKILLS
+  LEARNING
  </h2>
  
  <p align="center">
