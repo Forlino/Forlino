@@ -10,18 +10,13 @@ I am a first year programming student., I am currently studying at the National 
  </h2>
  
  <p align="center">
-  <code><img height="75" src="https://img.icons8.com/color/96/undefined/java-coffee-cup-logo--v1.png"></code>
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-  
 </p>
-
 <br/>
-
 <p align="center">
-  <code><img height="75" src="https://img.icons8.com/dusk/128/undefined/php-logo.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="https://img.icons8.com/fluency/96/undefined/mysql-logo.png"></code> &nbsp;&nbsp;
+
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 </p>
 
