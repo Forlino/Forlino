@@ -26,6 +26,7 @@ READ!: If you come to see my work, keep in mind that many of them are private or
 <p align="center">
   <a href="mailto:lucasforlino2001@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/lucasforlino/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/lucasforlino/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  
 
 
