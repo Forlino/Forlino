@@ -1,7 +1,7 @@
 ### Hi 👋, Im Lucas
 #### Programming student
 
-I am a first year programming student., I am currently studying at the National Technological University (UTN)
+I am a programming student,I am currently studying at the National Technological University (UTN)
 
 <h2 align="center">
   LEARNING
