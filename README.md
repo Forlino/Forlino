@@ -11,6 +11,7 @@ I am a programming student,I am currently studying at the National Technological
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://www.flaticon.es/icono-gratis/java_226777"></code> &nbsp;&nbsp;
 </p>
 <br/>
 <p align="center">
