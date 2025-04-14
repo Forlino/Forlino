@@ -1,7 +1,7 @@
 ### Hi 👋, Im Lucas
 #### Programming student
 
-I am a programming student,I am currently studying at the National Technological University (UTN)
+Onwner of Shopping Line Simulator in roblox ,I am currently studying at the National Technological University (UTN)
 
 <h2 align="center">
   LEARNING
