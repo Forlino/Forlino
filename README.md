@@ -15,6 +15,7 @@ READ!: If you come to see my work, keep in mind that many of them are private or
   <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://es.wikipedia.org/wiki/C%2B%2B#/media/Archivo:ISO_C++_Logo.svg"></code> &nbsp;&nbsp;
 </p>
 <br/>
 <p align="center">
