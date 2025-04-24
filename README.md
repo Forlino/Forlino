@@ -1,7 +1,7 @@
 ### Hi 👋, Im Lucas
 #### Programming student
 
-Onwner of Shopping Line Simulator in roblox ,I am currently studying at the National Technological University (UTN)
+Onwner of Shopping Simulator in roblox ,I am currently studying at the National Technological University (UTN)
 
 READ!: If you come to see my work, keep in mind that many of them are private or in other platforms!!
 
