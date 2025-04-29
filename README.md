@@ -1,7 +1,6 @@
 ### Hi 👋, Im Lucas
-#### Programming student
-
-Web & Mobile Developer. Owner of Shopping Simulator in Roblox
+#### Web & Mobile Developer
+Owner of Shopping Simulator in Roblox
 
 READ!: If you come to see my work, keep in mind that many of them are private or in other platforms!!
 
