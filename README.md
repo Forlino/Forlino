@@ -1,6 +1,6 @@
 ### Hi 👋, Im Lucas
 #### Web & Mobile Developer
-Owner of Shopping Simulator in Roblox
+Co-owner of Quazard Card Game and Shopping Simulator in Roblox 
 
 READ!: If you come to see my work, keep in mind that many of them are private or in other platforms!!
 
